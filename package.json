@@ -1,0 +1,15 @@
+{
+  "name": "sgwing",
+  "version": "0.0.1",
+  "description": "Stained glass window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Und3rk0re <und3rk0re@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-256-colors": "^1.1.0",
+    "supports-color": "^1.3.1"
+  }
+}
